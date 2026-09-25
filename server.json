@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/sentinel-hub",
   "title": "Sentinel Hub",
   "description": "Sentinel Hub MCP — satellite / earth-observation statistics as JSON (sentinel-hub.com).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/sentinel-hub",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-sentinel-hub",
